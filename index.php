@@ -36,7 +36,8 @@
     </fieldset>
     
         <fieldset>
-<iframe src="http://www.youtube.com/embed/?listType=user_uploads&list=jonaiphone" width="480" height="400" frameBorder="0"></iframe>
+
+<iframe src="http://www.youtube.com/embed/?listType=user_uploads&list=jonaiphone" width="100%" height="400" frameBorder="0"></iframe>
 
     </fieldset>
 </panel>
