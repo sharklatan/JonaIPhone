@@ -15,7 +15,7 @@
 
     <label>Setup Instructions</label>
     <fieldset>
-        <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://jonaiphonerepo.github.io/"><img class="icon" src="https://cydia.saurik.com/icon/cydia.png"><div><label>Add Source to Cydia</label></div></a>
+        <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://jonaiphonerepo.herokuapp.com/"><img class="icon" src="https://cydia.saurik.com/icon/cydia.png"><div><label>Add Source to Cydia</label></div></a>
         <div style="background:#FEE">
             <p>This repository contains beta software.</p>
         </div>
